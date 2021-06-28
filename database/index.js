@@ -36,7 +36,7 @@ const authors = [
 
 const publications =[
     {
-        id : 2,
+        id : 1,
         name : "Chakra",
         books : ["12345TWO"], 
     },
